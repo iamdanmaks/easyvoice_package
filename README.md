@@ -1,2 +1,1 @@
-# easyvoice_package
-EasyVoice Python package
+A package whiсh allows you to use EasyVoice API organization features natively without making requests to the system yourself.
